@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagerApi", "FileManagerApi\FileManagerApi.csproj", "{BF9A40CD-C3C7-4D2C-BE46-A89624231054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileManagerApi.Test", "FileManagerApi.Test\FileManagerApi.Test.csproj", "{545DC26D-0230-4523-AC52-1EA12FDB9837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9A40CD-C3C7-4D2C-BE46-A89624231054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9A40CD-C3C7-4D2C-BE46-A89624231054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9A40CD-C3C7-4D2C-BE46-A89624231054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9A40CD-C3C7-4D2C-BE46-A89624231054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{545DC26D-0230-4523-AC52-1EA12FDB9837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545DC26D-0230-4523-AC52-1EA12FDB9837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545DC26D-0230-4523-AC52-1EA12FDB9837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545DC26D-0230-4523-AC52-1EA12FDB9837}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4638F940-41F8-4FDA-B371-514B7A0BE3D1}
+	EndGlobalSection
+EndGlobal
